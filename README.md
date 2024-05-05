@@ -20,4 +20,4 @@ Accuracy
 
 Base CNN Model : 81.6%
 
-Pre-Trained VGG Model : 85.5%
+Pre-Trained VGG16 Model : 85.5%
