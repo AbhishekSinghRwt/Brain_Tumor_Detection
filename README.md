@@ -17,5 +17,7 @@ This study's dataset consists of MRI (Magnetic Resonance Imaging) scans of the b
 Accuracy
 
 ## Results
+
 Base CNN Model : 81.6%
+
 Pre-Trained VGG Model : 85.5%
